@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gaias People</string>
+    <string name="title_plan_future_services">Plan Future Services</string>
+    <string name="title_acquire_resources">Acquire Resources</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="bottom_nav_plan_future_services">Plan Service</string>
+    <string name="bottom_nav_acquire_resources">Resources</string>
+</resources>
